@@ -1,4 +1,4 @@
-<img src="https://github.com/justgeorges/justgeorges/assets/93357132/58b3e6f3-c2a4-43a0-8444-bbe33b564380" alt="Welcome" width="400"/>
+<img src="https://github.com/justgeorges/justgeorges/assets/93357132/58b3e6f3-c2a4-43a0-8444-bbe33b564380" alt="Welcome" width="600"/>
 
 ## 👋 Hi, I’m @justgeorges
 - 🌱 I'm a junior developer from America, based in Tokyo.
