@@ -7,9 +7,9 @@
 [Potion](https://github.com/justgeorges/potion)
 building connections between Pinterest and Notion
 
-### my recent projects
+### My Recent Projects
 - [Snow Patrol](https://github.com/justgeorges/snow-patrol)
 - [Buddy-Up](https://github.com/justgeorges/buddy-up)
 
-### reach out!
+### Reach Out!
 george@justgeorges.space
