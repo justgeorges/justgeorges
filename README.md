@@ -1,4 +1,6 @@
-<img src="https://github.com/justgeorges/justgeorges/assets/93357132/58b3e6f3-c2a4-43a0-8444-bbe33b564380" style="display: block; margin-left: auto; margin-right: auto;" alt="Welcome" width="600"/>
+<div align="center"
+  <img src="https://github.com/justgeorges/justgeorges/assets/93357132/58b3e6f3-c2a4-43a0-8444-bbe33b564380" alt="Welcome" width="600"/>
+</div>
 
 ## 👋 Hi, I’m @justgeorges
 - 🌱 I'm a junior developer from America, based in Tokyo.
