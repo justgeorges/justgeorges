@@ -1,6 +1,8 @@
+![GitHello_1](https://github.com/justgeorges/justgeorges/assets/93357132/58b3e6f3-c2a4-43a0-8444-bbe33b564380)
 ## 👋 Hi, I’m @justgeorges
 - 🌱 I'm a junior developer from America, based in Tokyo.
 - 🖥️ I currently use Ruby on Rails, PostgreSQL, Heroku, HTML, CSS, and Javascript (Vue.js)
+
 - 👀 I'm currently learning typescript!
 
 ## Currently Working on...
