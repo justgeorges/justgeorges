@@ -6,8 +6,6 @@
 - 🌱 I'm a junior developer from America, based in Tokyo.
 - 🖥️ I currently use Ruby on Rails, PostgreSQL, Heroku, HTML, CSS, and Javascript (Vue.js)
 
-- 👀 I'm currently learning typescript!
-
 ### My Recent Projects
 - [Snow Patrol](https://github.com/justgeorges/snow-patrol)
 - [Buddy-Up](https://github.com/justgeorges/buddy-up)
