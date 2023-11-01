@@ -8,10 +8,6 @@
 
 - 👀 I'm currently learning typescript!
 
-## Currently Working on...
-[Potion](https://github.com/justgeorges/potion)
-building connections between Pinterest and Notion
-
 ### My Recent Projects
 - [Snow Patrol](https://github.com/justgeorges/snow-patrol)
 - [Buddy-Up](https://github.com/justgeorges/buddy-up)
