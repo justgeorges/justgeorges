@@ -3,7 +3,7 @@
 </div>
 
 ## 👋 Hi, I’m @justgeorges
-- 🌱 I'm a junior developer from America, based in Tokyo.
+- 🌱 I'm a developer from America, based in Tokyo.
 - 🖥️ I currently use Ruby on Rails, PostgreSQL, Heroku, HTML, CSS, and Javascript (Vue.js)
 
 ### My Recent Projects
